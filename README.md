@@ -28,6 +28,10 @@ Muito prazer, chamo-me Maxwell Justino. Aqui você irá conhecer um pouco das mi
 
 
 
+
+
+
+
 ![Snake animation](https://github.com/maxjustino/maxjustino/blob/output/github-contribution-grid-snake.svg)
 
 
