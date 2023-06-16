@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @MaxJustino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Seja Bem-Vindo 
+Muito prazer, chamo-me Maxwell Justino. Aqui você irá conhecer um pouco das minhas habilidades.
 
-<!---
-MaxJustino/MaxJustino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### Redes Sociais 👇
+
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-justino-gomes-0053ba191/)
+ 
+
+
+
+## Tecnologias que uso no meu dia!
+<div style="display: inline_block">
+  
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div><br/>
+  
+
+
+
+
+![MaxJustino GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxJustino&show_icons=true&bg_color=00000000)
