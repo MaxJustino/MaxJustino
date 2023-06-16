@@ -25,7 +25,10 @@ Muito prazer, chamo-me Maxwell Justino. Aqui você irá conhecer um pouco das mi
 ![MaxJustino GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MaxJustino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJustino&layout=compact&langs_count=16&theme=dracula) 
 
 
-![Snake animation](https://github.com/MaxJustino/MaxJustino/blob/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://github.com/maxjustino/maxjustino/blob/output/github-contribution-grid-snake.svg)
 
 
 
