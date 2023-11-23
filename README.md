@@ -11,7 +11,7 @@ Muito prazer, chamo-me Maxwell Justino. Aqui você irá conhecer um pouco das mi
 
 
 
-## Tecnologias que uso no meu dia!
+## Tecnologias que uso no meu dia
 <div style="display: inline_block">
   
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
